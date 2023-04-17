@@ -2,6 +2,13 @@
 
 Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
 
+# Comentario David Garcia Ruiz
+Este proyecto lo ha realizado por:
+- David Lozando Canterero
+- Juan Calzada
+- David Garcia Ruiz
+- Juan Carlos Sanchez Garcia
+
 ---
 
 Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows, necesitarás adaptarlos o ejecutarlos en una máquina virtual Linux.
